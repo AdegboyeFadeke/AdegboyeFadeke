@@ -9,7 +9,7 @@
 <!--
 **AdegboyeFadeke/AdegboyeFadeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Test Automation using JavaScript
 - 🌱 I’m currently learning Test Automation
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 
--->
+
