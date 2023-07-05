@@ -33,6 +33,29 @@ Overall, my goal as a software tester is to contribute to the development of hig
 
 Thank you for taking the time to read my about me. I look forward to the opportunity to contribute my skills and expertise to your software testing team.
 
+Quotes for software tester
+
+"Testing is not about finding bugs; it's about eliminating possibilities." - Anonymous
+
+"The best tester isn't the one who finds the most bugs or the one who embarrasses the most programmers. The best tester is the one who gets the most bugs fixed." - Cem Kaner
+
+"The goal of a tester is to break the software, find its weaknesses, and help make it stronger." - Anonymous
+
+"Testing can show the presence of bugs, but not their absence." - Edsger Dijkstra
+
+"A good tester is someone who always questions what they are testing and never assumes anything." - Anonymous
+
+"Testing is an infinite process of comparing the invisible to the ambiguous to prevent the unthinkable from happening to the anonymous." - James Bach
+
+"The art of software testing is to identify the risks and prioritize them in order to focus on the most critical issues." - Anonymous
+
+"Testing is not just about executing test cases; it's about understanding the business needs and ensuring the software meets those needs." - Anonymous
+
+"The sooner a bug is found, the cheaper it is to fix." - Anonymous
+
+"Testing is a skill. While anyone can find bugs, a good tester knows how to find the right bugs." - Anonymous
+
+
 
 
 
